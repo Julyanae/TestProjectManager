@@ -1,0 +1,12 @@
+# Ignorer node_modules (Angular)
+frontend/node_modules/
+frontend/dist/
+frontend/.angular/
+
+# Ignorer Maven et IntelliJ (Spring Boot)
+backend/target/
+backend/.mvn/
+backend/.idea/
+*.log
+*.class
+*.jar
